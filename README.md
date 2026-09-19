@@ -125,7 +125,7 @@ This dashboard provides an overview of pizza sales performance through key perfo
   
 ## Dashboard 2 — Product Performance
 
-![Sales Performance Dashboard](04_Image/dashboard-home.png)
+![Dashboard 2](03_Images/pizza%20performance%20dashboard.jpg)
 
 ### Dashboard Description
 
