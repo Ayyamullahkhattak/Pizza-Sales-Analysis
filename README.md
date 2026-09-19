@@ -83,7 +83,7 @@ To address these questions, an interactive Power BI dashboard was developed to t
 
 ### Dashboard 1 — Sales Overview
 
-![Sales Performance Dashboard](03_Images/Sales Overview Dashboard.png)
+![Datast](03_Images/Sales Overview Dashboard.jpg)
 
 ### Dashboard Description
 
